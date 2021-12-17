@@ -56,6 +56,6 @@
 	</div>
 </div>
 
-<script src="scripts.js"></script>
+<script src="signup_transition.js"></script>
 </body>
 </html>
