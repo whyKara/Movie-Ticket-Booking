@@ -10,10 +10,9 @@ A **Movie Ticket Booking System** built with [your tech stack], allowing users t
 ✅ Admin dashboard for movie and booking management  
 
 ## 🛠️ Tech Stack  
-- **Frontend**: [React.js / Vue.js / Angular / etc.]  
-- **Backend**: [Node.js / Django / Flask / etc.]  
-- **Database**: [MongoDB / MySQL / PostgreSQL]  
-- **Authentication**: [JWT / OAuth / Firebase]  
+- **Frontend**: HTML, CSS, JS
+- **Backend**: PHP  
+- **Database**: MYSQL   
 
 ## 📷 Screenshots  
 _Add some screenshots of the UI for better understanding._  
