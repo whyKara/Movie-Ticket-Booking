@@ -1,57 +1,53 @@
-🎟️ Movie Ticket Booking System
+# 🎟️ Movie Ticket Booking System  
 
-A Movie Ticket Booking System built with [your tech stack], allowing users to browse movies, book tickets, and manage their reservations efficiently.
+A **Movie Ticket Booking System** built with [your tech stack], allowing users to browse movies, book tickets, and manage their reservations efficiently.  
 
-🚀 Features
+## 🚀 Features  
+✅ Browse available movies and showtimes  
+✅ Book tickets online  
+✅ Secure payment integration  
+✅ User authentication & profile management  
+✅ Admin dashboard for movie and booking management  
 
-✅ Browse available movies and showtimes
-✅ Book tickets online
-✅ Secure payment integration
-✅ User authentication & profile management
-✅ Admin dashboard for movie and booking management
+## 🛠️ Tech Stack  
+- **Frontend**: [React.js / Vue.js / Angular / etc.]  
+- **Backend**: [Node.js / Django / Flask / etc.]  
+- **Database**: [MongoDB / MySQL / PostgreSQL]  
+- **Authentication**: [JWT / OAuth / Firebase]  
 
-🛠️ Tech Stack
-	•	Frontend: [React.js / Vue.js / Angular / etc.]
-	•	Backend: [Node.js / Django / Flask / etc.]
-	•	Database: [MongoDB / MySQL / PostgreSQL]
-	•	Authentication: [JWT / OAuth / Firebase]
+## 📷 Screenshots  
+_Add some screenshots of the UI for better understanding._  
 
-📷 Screenshots
+## 🔧 Installation  
+1. Clone the repository:  
+   ```bash
+   git clone https://github.com/whyKara/Movie-Ticket-Booking.git
+   cd Movie-Ticket-Booking
+   ```  
+2. Install dependencies:  
+   ```bash
+   npm install  # or yarn install
+   ```  
+3. Set up environment variables:  
+   ```bash
+   cp .env.example .env
+   ```  
+4. Start the application:  
+   ```bash
+   npm start  # or yarn start
+   ```  
 
-Add some screenshots of the UI for better understanding.
+## 📖 Usage  
+- Register/Login to your account  
+- Browse available movies  
+- Select a movie and choose showtime  
+- Book your tickets and proceed with payment  
+- Access your bookings from the dashboard  
 
-🔧 Installation
+## 🎯 Roadmap  
+- [ ] Add seat selection  
+- [ ] Implement discount coupons  
+- [ ] Mobile app version  
 
-1️⃣ Clone the repository:
-
-git clone https://github.com/whyKara/Movie-Ticket-Booking.git
-cd Movie-Ticket-Booking
-
-2️⃣ Install dependencies:
-
-npm install  # or yarn install
-
-3️⃣ Set up environment variables:
-
-cp .env.example .env
-
-4️⃣ Start the application:
-
-npm start  # or yarn start
-
-📖 Usage
-	•	Register/Login to your account
-	•	Browse available movies
-	•	Select a movie and choose showtime
-	•	Book your tickets and proceed with payment
-	•	Access your bookings from the dashboard
-
-🎯 Roadmap
-	•	Add seat selection
-	•	Implement discount coupons
-	•	Mobile app version
-
-👥 Contributors
-
-🤝 Contributions are welcome! Feel free to fork the repo and submit a pull request.
-
+## 👥 Contributors  
+🤝 Contributions are welcome! Feel free to fork the repo and submit a pull request.  
